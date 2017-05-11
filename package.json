@@ -1,5 +1,5 @@
 {
-  "name": "json-api",
+  "name": "node-json-api",
   "version": "1.0.0",
   "description": "A simple json server, for fast development and testing.",
   "main": "index.js",
@@ -9,7 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "json"
+    "json",
+    "api",
+    "node",
+    "rest"
   ],
   "author": "Daniel Mocan",
   "license": "ISC",
